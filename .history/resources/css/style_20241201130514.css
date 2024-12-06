@@ -1,0 +1,19 @@
+header{
+    width: 100%;
+    height:80px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.logo{
+    position:relative;
+    display: inline-flex;
+}
+
+nav{
+    position:relative;
+    display: flex;
+}
+nav li{
+    list-style: none;
+}

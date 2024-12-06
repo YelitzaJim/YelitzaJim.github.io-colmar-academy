@@ -1,0 +1,21 @@
+header{
+    width: 100%;
+    height:64px;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.logo{
+    position:relative;
+    display: inline-flex;
+}
+
+nav{
+    position:relative;
+    display: flex;
+    margin-top: 16px;
+}
+nav li{
+    list-style: none;
+    padding:10px;
+}
